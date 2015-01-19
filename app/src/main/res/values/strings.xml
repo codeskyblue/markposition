@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MarkPosition</string>
+    <string name="title">标记位置 for airtest</string>
+    <string name="action_settings">Settings</string>
+    <string name="close_service">关闭服务</string>
+
+</resources>
